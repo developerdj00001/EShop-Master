@@ -9,3 +9,5 @@ vscode:
   extensions:
     - alexcvzz.vscode-sqlite
     - ms-kubernetes-tools.vscode-kubernetes-tools
+    - mtxr.sqltools-driver-sqlite
+    - mtxr.sqltools
