@@ -4,4 +4,4 @@ from .models.product import Product
 # Register your models here.
 
 admin.site.register(Product)
-
+admin.site.register(Category)
